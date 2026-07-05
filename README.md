@@ -7,6 +7,7 @@ This project features a **Business Intelligence and Data Analytics** study condu
 ## 🎯 Project Objective
 To analyze user interface language interactions, geographical conversion rates, device breakdowns, and cart abandonment behaviors using a realistically modeled dataset in order to provide the company with **zero-budget market expansion strategies**.
 
+![Geographical Conversion Chart](Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202026-07-05%20203005.png)
 ---
 
 ## 🛠 Technologies & Methodology
